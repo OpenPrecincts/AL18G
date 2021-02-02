@@ -1,0 +1,11 @@
+mkdir data
+cd data
+mkdir election_results
+cd election_results
+mkdir county_level
+mkdir precinct_level
+cd ..
+mkdir shapefiles
+cd shapefiles
+mkdir county_level_precinct_election_results
+cd ../..
